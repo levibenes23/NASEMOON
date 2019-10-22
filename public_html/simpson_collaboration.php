@@ -18,7 +18,7 @@
 
 <body>
 
-  <?php include 'navigation.php'; ?>
+  <?php include '../resources/navigation.php'; ?>
     
   <div class="container">
     <h1>In Collaboration with Simpson College</h1>
@@ -42,7 +42,7 @@
       <h5><b> NASEMOON, we strive to make space affordable to passionate college students.</b></h5>
 
     <hr>
-      <?php include 'footer.php'; ?>
+      <?php include '../resources/footer.php'; ?>
   </div>
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

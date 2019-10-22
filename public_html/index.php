@@ -18,7 +18,7 @@
 <body>
 
  
-  <?php include 'navigation.php'; ?>
+  <?php include '../resources/navigation.php'; ?>
 
     <div class="container">
       <div class="form-row">
@@ -56,7 +56,7 @@
     </div>
 
       <hr>
-      <?php include 'footer.php'; ?>
+      <?php include '../resources/footer.php'; ?>
     </div>
 
 
