@@ -12,9 +12,6 @@
 
  
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/darkly/bootstrap.min.css">
-
-
-    </style>
 </head>
 
 <body>

@@ -91,7 +91,6 @@ tr:nth-child(even) {
     <td>Financial Aid+Partial Buzz Lightyear Scholarship</td>
     <td>$10,000</td>
   </tr>
-        </div>
 
 </table>
 
