@@ -33,7 +33,6 @@
 
            <li class="nav-item">
             <a class="nav-link" href="simpson_collaboration.php">Simpson Collaboration</a>
-            </div>
         </ul>
       </div>
     </nav>
